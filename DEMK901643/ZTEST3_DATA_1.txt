@@ -1,0 +1,21 @@
+class ZTEST3_DATA_1 definition
+  public
+  final
+  create public .
+
+public section.
+protected section.
+private section.
+
+  methods TEST1 .
+ENDCLASS.
+
+
+
+CLASS ZTEST3_DATA_1 IMPLEMENTATION.
+
+
+method TEST1.
+  write 'hello'.
+endmethod.
+ENDCLASS.
